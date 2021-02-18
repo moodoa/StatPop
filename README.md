@@ -1,7 +1,7 @@
 # StatPop
 繪製 NBA 數據用
 
-![alt text](https://miro.medium.com/max/1050/1*UDZMcs_BU4bq2oD8gd5dyg.png)
+![alt text](https://i.imgur.com/QgY7ZDE.png)
 
 ## FUNCTION
 #### statpop.py
