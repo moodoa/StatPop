@@ -49,5 +49,5 @@ if __name__ == "__main__":
                     "per_game",
                     "PTS",
                     "skyblue",
-                    "line")
+                    "bar")
     statpop.draw()
